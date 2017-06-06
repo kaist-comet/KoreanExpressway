@@ -16,6 +16,6 @@ The `2011` directory includes `.csv` files that are identical to the tabs in the
 The road network data and the traffic volume (termed 'demand') data were obtained from http://www.ex.co.kr in 2011. The location of each node and the length of each arc are *estimated* from the GIS information available in http://openapi.nsdi.go.kr.
 
 
-Note that the 2011 data is outdated. The current network looks:
+Note that the 2011 data is outdated. The road network in 2017 looks:
 
 ![Map Image](https://github.com/chkwon/KoreanExpressway/blob/master/current_map.jpg | width=400)

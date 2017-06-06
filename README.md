@@ -7,4 +7,4 @@ This repository contains the Korean Expressway network data used in
 
 The `2011` directory includes `.csv` files that are identical to the tabs in the `2011data.xlsx`.
 
-The road network data and the travel demand data were obtained from http://www.ex.co.kr in 2011.
+The road network data and the traffic volume (termed 'demand') data were obtained from http://www.ex.co.kr in 2011. The location of each node and the length of each arc are *estimated* from the GIS information available in http://openapi.nsdi.go.kr.

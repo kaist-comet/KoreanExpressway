@@ -6,8 +6,8 @@ This repository contains the Korean Expressway network data used in
 - Chung, B.D., S. Park, C. Kwon, [“Equitable Distribution of Recharging Stations for Electric Vehicles”](http://www.chkwon.net/papers/chung_equitable.pdf), *Socio-Economic Planning Science*, To Appear.
 
 
-<embed type="image/svg+xml" src="map.svg" />
-<img src="map.svg" />
+<embed type="image/svg+xml" src="https://github.com/chkwon/KoreanExpressway/blob/master/map.svg" />
+<img src="https://github.com/chkwon/KoreanExpressway/blob/master/map.svg" />
 
 The `2011` directory includes `.csv` files that are identical to the tabs in the `2011data.xlsx`.
 

@@ -7,7 +7,7 @@ This repository contains the Korean Expressway network data used in
 
 
 <embed type="image/svg+xml" src="map.svg" />
-
+<img src="map.svg" />
 
 The `2011` directory includes `.csv` files that are identical to the tabs in the `2011data.xlsx`.
 

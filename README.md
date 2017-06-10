@@ -3,7 +3,7 @@
 This repository contains the Korean Expressway network data used in
 
 - Chung, S. H. and C. Kwon (2015), [“Multi-Period Planning for Electric-Car Charging Station Locations: a Case of Korean Expressways”](http://dx.doi.org/10.1016/j.ejor.2014.10.029), *European Journal of Operational Research*. 242(2), 677–687.
-- Chung, B.D., S. Park, C. Kwon, [“Equitable Distribution of Recharging Stations for Electric Vehicles”](http://www.chkwon.net/papers/chung_equitable.pdf), *Socio-Economic Planning Science*, To Appear.
+- Chung, B.D., S. Park, C. Kwon, [“Equitable Distribution of Recharging Stations for Electric Vehicles”](https://doi.org/10.1016/j.seps.2017.06.002), *Socio-Economic Planning Science*, To Appear.
 
 
 ![Map Image](https://github.com/chkwon/KoreanExpressway/blob/master/map.jpg)
